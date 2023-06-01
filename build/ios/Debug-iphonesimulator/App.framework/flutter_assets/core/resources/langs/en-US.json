@@ -1,0 +1,48 @@
+{
+  "common": {
+    "messages": {
+      "unimplemented_functionality": "This feature is coming soon",
+      "oops": "Oops",
+      "unknown_error": "Something went wrong"
+    },
+    "buttons": {
+      "ok": "OK",
+      "yes": "Yes",
+      "no": "No",
+      "okay": "Okay",
+      "confirm": "Confirm",
+      "cancel": "Cancel",
+      "proceed": "Proceed"
+    }
+  },
+  "sign_in": {
+    "sign_in": "Sign In",
+    "username": "Username",
+    "password": "Password",
+    "forgot_pass": "Forgot your password?",
+    "login": "Login",
+    "or": "or",
+    "dont_have_account": "Don't have an account? ",
+    "sign_up": "Sign Up",
+    "error": "Please enter something"
+  },
+  "sign_up": {
+    "sign_up": "Sign Up",
+    "email": "Enter email",
+    "pass": "Enter password",
+    "repeat_pass": "Confirm password",
+    "or": "or",
+    "have_account": "Already have an account? ",
+    "sign_in": "Sign In",
+    "field_error": "Please enter something",
+    "password_error": "Passwords do not match"
+  },
+  "profile": {
+    "edit": "Edit",
+    "about_me": "About Me",
+    "log_out": "Log Out",
+    "phone_number": "Phone number",
+    "email": "Email",
+    "projects": "Completed projects"
+  }
+}
